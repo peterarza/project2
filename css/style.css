@@ -1,0 +1,63 @@
+html	{
+	background: #BAA68E url("../images/yellowpad.jpg") no-repeat center;	
+}
+
+#container	{
+	font-family: helvetica;
+	width: 620px;
+	margin: 0 auto;	
+}
+
+h1	{
+	text-align: center;
+	color: blue;
+}
+
+#error	{
+	color: red;
+	font-weight: bold;
+	font-size: 1.2em;
+
+}
+
+input	{
+	width: 410px;
+	height: 20px;
+	padding: 10px;
+	font-size: 1.2em;
+}
+
+label	{
+	width: 100px;
+	font-size: 1.2em;
+	font-weight: bold;
+	float: left;
+	padding-top: 15px;
+	padding-bottom: 30px;
+	color: blue;
+}
+
+#notebody	{
+	margin-top: 50px;
+	width: 425px;
+	height: 200px;
+	font-size: 1.2em;
+}
+
+#addButton	{
+	height: 25px;
+	width: 70px;
+	margin-right: 90px;	
+	font-size: 1em;
+	float: right;
+}
+
+#display	{
+	clear: both;
+	position: relative;
+	border-radius: 10%;
+	float: right;
+	color: yellow;
+	background: blue;
+	font-size: 1em;
+}

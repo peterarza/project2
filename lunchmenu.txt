@@ -1,0 +1,30 @@
+7 Items for the mycookbook database:
+
+Chicken Margherita
+-----------------
+Grilled chicken breast topped with fresh tomatoes, mozzarella,basil pesto and a lemon garlic sauce. 
+
+Chicken Parmigiana
+------------------
+Two lightly fried parmesan-breaded chicken breasts are smothered with homemade marinara sauce and melted Italian cheeses. Served with a side of spaghetti . 
+
+Cheese Ravioli
+--------------
+Filled with a blend of indulgent Italian cheeses, topped with your choice of homemade marinara or meat sauce and melted mozzarella.**
+
+Shrimp Carbonara
+----------------
+Sautéed shrimp and bucatini pasta tossed in a creamy carbonara sauce with bacon and roasted red peppers.
+
+Garlic Mussels Marinara
+-----------------------
+Oven-roasted mussels tossed in our housemade garlic marinara sauce. Served with garlic-parmesan breadstick toast.
+
+Herb-Grilled Salmon
+-------------------
+Filet grilled to perfection and topped with garlic-herb butter. Served with parmesan-garlic broccoli.
+
+Braised Beef with Tortelloni
+----------------------------
+Tender slices of slow-braised beef, portobello mushrooms and asiago-filled tortelloni tossed in basil-marsala sauce.
+
